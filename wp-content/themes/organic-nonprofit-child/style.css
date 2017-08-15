@@ -1,0 +1,25 @@
+/*
+	Theme Name: Organic NonProfit child
+	Description: A child theme of Organic NonProfit theme
+	Author: Chuck Reynolds
+	Template: Organic-NonProfit
+	Version: 0.1.0
+*/
+
+
+.button.large:hover,
+.social-icons li a:hover {
+    background-color: #2C163C;
+    color: #e18649;
+}
+
+
+.staff p:first-of-type {
+	padding:150px 0 0 0;
+}
+
+.round {
+border-radius:50%;
+height:300px;
+width:300px;
+}

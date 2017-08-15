@@ -1,0 +1,710 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Organic NonProfit\n"
+"POT-Creation-Date: 2016-02-02 12:32-0500\n"
+"PO-Revision-Date: 2016-02-02 12:32-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:23 404.php:45
+msgid "Not Found, Error 404"
+msgstr ""
+
+#: 404.php:24 404.php:46
+msgid ""
+"The page you are looking for no longer exists. Perhaps searching can help."
+msgstr ""
+
+#: comments.php:17
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:33
+#, php-format
+msgid "One Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40 comments.php:60
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:61
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:42 comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: content/content-author.php:22
+msgid "Website:"
+msgstr ""
+
+#: content/content-author.php:23
+msgid "Link to author page"
+msgstr ""
+
+#: content/content-author.php:28
+msgid "Profile:"
+msgstr ""
+
+#: content/content-author.php:34
+#, php-format
+msgid "Posts by %1$s:"
+msgstr ""
+
+#: content/content-author.php:47
+msgid "No posts by this author."
+msgstr ""
+
+#: content/content-none.php:16
+msgid "No Options Saved"
+msgstr ""
+
+#: content/content-none.php:17
+#, php-format
+msgid ""
+"Please set and save the theme options for the Home Page template within the "
+"<a href=\"%1$s\">Customizer</a>."
+msgstr ""
+
+#: content/content-none.php:21
+msgid "No Projects Found"
+msgstr ""
+
+#: content/content-none.php:22
+#, php-format
+msgid "<a href=\"%1$s\">Add New</a> Projects to start creating your Portfolio."
+msgstr ""
+
+#: content/content-none.php:26
+msgid "No Results Found"
+msgstr ""
+
+#: content/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content/home-bottom.php:20 content/home-tabs.php:57
+#: content/slider-info.php:41 functions.php:266 loop-blog.php:43
+#: loop-page.php:16 template-landing.php:61
+msgid "Read More"
+msgstr ""
+
+#: content/slider-info.php:31
+msgid "Updated on"
+msgstr ""
+
+#: content/slider-info.php:31 content/slider-info.php:33
+msgid "F j, Y"
+msgstr ""
+
+#: content/slider-info.php:33
+msgid "Posted on"
+msgstr ""
+
+#: content/slider-info.php:36 loop-archive.php:19 loop-blog.php:33
+#: loop-category.php:31 loop-post.php:14
+msgid "Leave a Comment"
+msgstr ""
+
+#: content/slider-info.php:36 loop-archive.php:19 loop-blog.php:33
+#: loop-category.php:31 loop-post.php:14
+msgid "1 Comment"
+msgstr ""
+
+#: footer.php:49
+msgid "Copyright"
+msgstr ""
+
+#: footer.php:49
+msgid "Y"
+msgstr ""
+
+#: footer.php:49
+msgid "All Rights Reserved"
+msgstr ""
+
+#: footer.php:53 footer.php:57
+msgid "RSS Feed"
+msgstr ""
+
+#: footer.php:57
+msgid "NonProfit Theme v5"
+msgstr ""
+
+#: footer.php:57
+msgid "by"
+msgstr ""
+
+#: footer.php:57
+msgid "Organic Themes"
+msgstr ""
+
+#: footer.php:57
+msgid "WordPress Hosting"
+msgstr ""
+
+#: functions.php:37
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:38
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:46
+msgid "Default Custom Header"
+msgstr ""
+
+#: functions.php:143
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions.php:151
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:159
+msgid "Footer Widgets"
+msgstr ""
+
+#: functions.php:205
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:205 functions.php:245
+msgid "Edit"
+msgstr ""
+
+#: functions.php:223
+#, php-format
+msgid "%1$s <br/> %2$s <br/>"
+msgstr ""
+
+#: functions.php:229
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: functions.php:238
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:243
+msgid "Reply"
+msgstr ""
+
+#: functions.php:276
+#, php-format
+msgid ""
+"<span class=\"%1$s\">Last Updated:</span> %2$s <span class=\"meta-sep\">by</"
+"span> %3$s"
+msgstr ""
+
+#: functions.php:285 functions.php:299
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions.php:290
+#, php-format
+msgid ""
+"<span class=\"%1$s\">Posted:</span> %2$s <span class=\"meta-sep\">by</span> "
+"%3$s"
+msgstr ""
+
+#: functions.php:317 loop-portfolio.php:85
+msgid "&laquo;"
+msgstr ""
+
+#: functions.php:318 loop-portfolio.php:86
+msgid "&raquo;"
+msgstr ""
+
+#: functions.php:470
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: functions.php:474
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: header.php:133
+#, php-format
+msgid "Create a Custom Navigation Menu <a href=\"%1$s\">here</a>."
+msgstr ""
+
+#: includes/customizer.php:21 includes/customizer.php:60
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: includes/customizer.php:111 includes/customizer.php:451
+msgid "2 Seconds"
+msgstr ""
+
+#: includes/customizer.php:112 includes/customizer.php:452
+msgid "4 Seconds"
+msgstr ""
+
+#: includes/customizer.php:113 includes/customizer.php:453
+msgid "6 Seconds"
+msgstr ""
+
+#: includes/customizer.php:114 includes/customizer.php:454
+msgid "8 Seconds"
+msgstr ""
+
+#: includes/customizer.php:115 includes/customizer.php:455
+msgid "10 Seconds"
+msgstr ""
+
+#: includes/customizer.php:116 includes/customizer.php:456
+msgid "12 Seconds"
+msgstr ""
+
+#: includes/customizer.php:117 includes/customizer.php:457
+msgid "20 Seconds"
+msgstr ""
+
+#: includes/customizer.php:118 includes/customizer.php:458
+msgid "30 Seconds"
+msgstr ""
+
+#: includes/customizer.php:119 includes/customizer.php:459
+msgid "1 Minute"
+msgstr ""
+
+#: includes/customizer.php:120 includes/customizer.php:460
+msgid "Hold Frame"
+msgstr ""
+
+#: includes/customizer.php:132 includes/customizer.php:475
+msgid "Fade"
+msgstr ""
+
+#: includes/customizer.php:133 includes/customizer.php:476
+msgid "Slide"
+msgstr ""
+
+#: includes/customizer.php:145 includes/customizer.php:704
+msgid "One Column"
+msgstr ""
+
+#: includes/customizer.php:146 includes/customizer.php:705
+msgid "Two Columns"
+msgstr ""
+
+#: includes/customizer.php:147 includes/customizer.php:706
+msgid "Three Columns"
+msgstr ""
+
+#: includes/customizer.php:148 includes/customizer.php:707
+msgid "Four Columns"
+msgstr ""
+
+#: includes/customizer.php:160 includes/customizer.php:515
+msgid "Right"
+msgstr ""
+
+#: includes/customizer.php:161 includes/customizer.php:516
+msgid "Bottom"
+msgstr ""
+
+#: includes/customizer.php:173 includes/customizer.php:257
+#: includes/customizer.php:274
+msgid "Left Align"
+msgstr ""
+
+#: includes/customizer.php:174 includes/customizer.php:258
+#: includes/customizer.php:275
+msgid "Center Align"
+msgstr ""
+
+#: includes/customizer.php:175 includes/customizer.php:259
+#: includes/customizer.php:276
+msgid "Right Align"
+msgstr ""
+
+#: includes/customizer.php:187
+msgid "Black"
+msgstr ""
+
+#: includes/customizer.php:188
+msgid "White"
+msgstr ""
+
+#: includes/customizer.php:231
+msgid "Site Title, Tagline & Logo"
+msgstr ""
+
+#: includes/customizer.php:241
+msgid "Logo"
+msgstr ""
+
+#: includes/customizer.php:254
+msgid "Logo Alignment"
+msgstr ""
+
+#: includes/customizer.php:271
+msgid "Site Description Alignment"
+msgstr ""
+
+#: includes/customizer.php:291
+msgid "Header Background Color"
+msgstr ""
+
+#: includes/customizer.php:303
+msgid "Link Color"
+msgstr ""
+
+#: includes/customizer.php:315
+msgid "Link Hover Color"
+msgstr ""
+
+#: includes/customizer.php:327
+msgid "Heading Link Color"
+msgstr ""
+
+#: includes/customizer.php:339
+msgid "Heading Link Hover Color"
+msgstr ""
+
+#: includes/customizer.php:351
+msgid "Highlight Color"
+msgstr ""
+
+#: includes/customizer.php:365
+msgid "Theme Options"
+msgstr ""
+
+#: includes/customizer.php:366
+msgid ""
+"This panel allows you to customize specific areas of the NonProfit Theme."
+msgstr ""
+
+#: includes/customizer.php:374
+msgid "Contact Info Bar"
+msgstr ""
+
+#: includes/customizer.php:385
+msgid "Company Address"
+msgstr ""
+
+#: includes/customizer.php:398
+msgid "Company Email Address"
+msgstr ""
+
+#: includes/customizer.php:411
+msgid "Company Phone Number"
+msgstr ""
+
+#: includes/customizer.php:424
+msgid "Display Search Field?"
+msgstr ""
+
+#: includes/customizer.php:436
+msgid "Slideshow Settings"
+msgstr ""
+
+#: includes/customizer.php:448
+msgid "Transition Interval"
+msgstr ""
+
+#: includes/customizer.php:472
+msgid "Slideshow Transition Style"
+msgstr ""
+
+#: includes/customizer.php:486
+msgid "Home Page Template"
+msgstr ""
+
+#: includes/customizer.php:497
+msgid "Featured Slideshow Category"
+msgstr ""
+
+#: includes/customizer.php:510
+msgid "Featured Slide Info Position"
+msgstr ""
+
+#: includes/customizer.php:529
+msgid "Give Donation Form"
+msgstr ""
+
+#: includes/customizer.php:544
+msgid "Donation Tagline"
+msgstr ""
+
+#: includes/customizer.php:557
+msgid "Donation Description"
+msgstr ""
+
+#: includes/customizer.php:570
+msgid "Donation Link"
+msgstr ""
+
+#: includes/customizer.php:583
+msgid "Donation Link Text"
+msgstr ""
+
+#: includes/customizer.php:598
+msgid "Featured Page Left"
+msgstr ""
+
+#: includes/customizer.php:611
+msgid "Featured Page Middle"
+msgstr ""
+
+#: includes/customizer.php:624
+msgid "Featured Page Right"
+msgstr ""
+
+#: includes/customizer.php:637
+msgid "Featured Page Bottom"
+msgstr ""
+
+#: includes/customizer.php:650
+msgid "Featured Tabs Category"
+msgstr ""
+
+#: includes/customizer.php:662
+msgid "Additional Page Templates"
+msgstr ""
+
+#: includes/customizer.php:674
+msgid "Blog Template Category"
+msgstr ""
+
+#: includes/customizer.php:686
+msgid "Blog Posts to Display"
+msgstr ""
+
+#: includes/customizer.php:699
+msgid "Portfolio Project Columns"
+msgstr ""
+
+#: includes/customizer.php:717
+msgid "Footer"
+msgstr ""
+
+#: includes/customizer.php:727
+msgid "Footer Text"
+msgstr ""
+
+#: includes/typefaces.php:17
+msgctxt "Oswald font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/typefaces.php:18
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/typefaces.php:19
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/typefaces.php:20
+msgctxt "Playfair font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/typefaces.php:21
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/typefaces.php:22
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: loop-archive.php:19 loop-blog.php:33 loop-category.php:31 loop-post.php:14
+msgid "% Comments"
+msgstr ""
+
+#: loop-archive.php:23
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: loop-archive.php:28
+msgid ","
+msgstr ""
+
+#: loop-archive.php:33 loop-post.php:47
+msgid "Category:"
+msgstr ""
+
+#: loop-archive.php:33 loop-post.php:47
+msgid "Tags:"
+msgstr ""
+
+#: loop-page.php:19 loop-post.php:31
+msgid "Pages:"
+msgstr ""
+
+#: loop-page.php:24 loop-post.php:36
+msgid "Next"
+msgstr ""
+
+#: loop-page.php:25 loop-post.php:37
+msgid "Previous"
+msgstr ""
+
+#: loop-page.php:30
+msgid "(Edit)"
+msgstr ""
+
+#: loop-post.php:42 loop-post.php:47
+msgid ", "
+msgstr ""
+
+#: search.php:39 search.php:77 search.php:97 search.php:127
+#, php-format
+msgid "Search: %s"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: searchform.php:13
+msgid "Search Here &hellip;"
+msgstr ""
+
+#: searchform.php:14
+msgid "Go"
+msgstr ""
+
+#: template-archive.php:40
+msgid "By Page:"
+msgstr ""
+
+#: template-archive.php:45
+msgid "By Post:"
+msgstr ""
+
+#: template-archive.php:50
+msgid "By Month:"
+msgstr ""
+
+#: template-archive.php:53
+msgid "By Category:"
+msgstr ""
+
+#: updater/theme-updater.php:28
+msgid "Theme License"
+msgstr ""
+
+#: updater/theme-updater.php:29
+msgid "Enter your theme license key."
+msgstr ""
+
+#: updater/theme-updater.php:30
+msgid "License Key"
+msgstr ""
+
+#: updater/theme-updater.php:31
+msgid "License Action"
+msgstr ""
+
+#: updater/theme-updater.php:32
+msgid "Deactivate License"
+msgstr ""
+
+#: updater/theme-updater.php:33
+msgid "Activate License"
+msgstr ""
+
+#: updater/theme-updater.php:34 updater/theme-updater.php:46
+msgid "License status is unknown."
+msgstr ""
+
+#: updater/theme-updater.php:35
+msgid "Renew?"
+msgstr ""
+
+#: updater/theme-updater.php:36
+msgid "unlimited"
+msgstr ""
+
+#: updater/theme-updater.php:37
+msgid "License key is active."
+msgstr ""
+
+#: updater/theme-updater.php:38
+#, php-format
+msgid "Expires %s."
+msgstr ""
+
+#: updater/theme-updater.php:39
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: updater/theme-updater.php:40
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+
+#: updater/theme-updater.php:41
+msgid "License key has expired."
+msgstr ""
+
+#: updater/theme-updater.php:42
+msgid "License keys do not match."
+msgstr ""
+
+#: updater/theme-updater.php:43
+msgid "License is inactive."
+msgstr ""
+
+#: updater/theme-updater.php:44
+msgid "License key is disabled."
+msgstr ""
+
+#: updater/theme-updater.php:45
+msgid "Site is inactive."
+msgstr ""
+
+#: updater/theme-updater.php:47
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: updater/theme-updater.php:48
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""

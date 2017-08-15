@@ -1,0 +1,148 @@
+/************************************************
+*	Give WP 						     	    *
+************************************************/
+
+/* Give General Styles */
+.give-form-wrap {
+	margin-top: 48px;
+}
+.give-form-wrap .goal-progress {
+	margin-bottom: 48px;
+}
+.give-form-wrap #give_terms_agreement,
+.give-form-wrap form[id*="give-form"] fieldset {
+	text-align: left;
+}
+.give-form-wrap form[id*="give-form"] .give-donation-amount #give-amount {
+	font-size: 1.8em;
+	height: 64px;
+	width: 200px;
+	border-radius: 0px 3px 3px 0px;
+}
+.give-form-wrap form[id*="give-form"] .give-donation-amount .give-currency-symbol.give-currency-position-before {
+	height: inherit;
+	line-height: inherit;
+	padding-bottom: 1px;
+	border-radius: 3px 0px 0px 3px;
+}
+
+/* Give Featured Form */
+.featured-give {
+	background-color: #ffffff;
+	background-position: top center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+.featured-give .donation {
+	display: inline-block;
+	background: #ffffff;
+	max-width: 720px;
+	margin: 48px auto 48px;
+	padding: 36px;
+}
+.featured-give .excerpt {
+	font-size: 1.1em;
+	margin-top: -12px;
+}
+.featured-give .excerpt p {
+	padding: 8px 0px;
+}
+.featured-give form[id*="give-form"] {
+	margin-bottom: 0px;
+}
+.featured-give form[id*="give-form"] p.give-loading-text.give-updating-price-loader,
+.postarea.full-width  form[id*="give-form"] p.give-loading-text.give-updating-price-loader {
+	display: none !important;
+}
+.featured-give .give-form-wrap,
+.postarea.full-width .give-form-wrap {
+	text-align: center;
+	margin: 24px auto 0px;
+}
+.featured-give .give-total-wrap,
+.postarea.full-width .give-total-wrap {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	margin: 0px auto 0px;
+}
+.featured-give .give-donation-amount.form-row-wide,
+.postarea.full-width .give-donation-amount.form-row-wide {
+	display: inline-block;
+}
+.featured-give #give-donation-level-button-wrap > li,
+.postarea.full-width #give-donation-level-button-wrap > li {
+	float: none;
+	display: inline;
+}
+.featured-give #give-donation-level-button-wrap > li .give-btn {
+	font-size: 0.8em;
+	margin-top: 0px;
+	padding: 6px 18px;
+}
+.featured-give .give-btn {
+	background-color: #99cc00;
+	font-size: 1.1em;
+	margin: 6px 0px !important;
+	padding: 12px 32px;
+}
+
+/* Give Single Page */
+.give-form-title {
+	display: none;
+}
+.type-give_forms .headline {
+	margin-bottom: 24px;
+}
+.postarea.full-width .give-form-wrap .goal-progress,
+.postarea.full-width .give-form-wrap .goal-progress .income {
+	display: block;
+	text-align: center;
+}
+
+/* Give Archive Page */
+.donations {
+	margin-top: 24px;
+}
+.nonprofit-header-active.post-type-archive-give_forms .donations {
+	margin-top: -48px;
+}
+.donations .half:nth-child(2n+1) {
+	clear: both;
+}
+.donation-post {
+	background: #ffffff;
+	margin: 12px;
+	overflow: hidden;
+}
+.donation-post .information {
+	padding: 18px;
+}
+.donation-post .title {
+	letter-spacing: 0px;
+	padding: 6px 0px;
+}
+.donation-post .excerpt p {
+	padding: 6px 0px;
+}
+.donation-post a.feature-img {
+	display: inline;
+}
+.donation-post img {
+	display: block;
+}
+
+/* Modal Styles */
+.give-modal .mfp-content {
+	padding: 48px;
+	border-radius: 3px;
+}
+button.mfp-arrow, button.mfp-close,
+button.mfp-arrow:hover, button.mfp-close:hover {
+	top: 30px;
+	right: 30px;
+	background: none;
+	box-shadow: none;
+}
