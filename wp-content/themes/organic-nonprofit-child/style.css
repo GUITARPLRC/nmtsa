@@ -7,19 +7,49 @@
 */
 
 
+/* global */
+.round {
+	border-radius: 50%;
+}
+
+/* home page donate button and footer social links */
 .button.large:hover,
 .social-icons li a:hover {
-    background-color: #2C163C;
-    color: #e18649;
+	background-color: #2C163C !important;
+	color: #e18649 !important;
 }
 
 
-.staff p:first-of-type {
-	padding:150px 0 0 0;
+/* staff list */
+.staff {
+	display:flex;
+	flex-wrap: wrap;
+}
+.staff figcaption {
+	font-size:30px !important;
+}
+.staff .member {
+	min-width: 50%;
+}
+.staff .member .info {
+	text-align: center;
+}
+.staff .member p {
+	margin: 0;
+	padding: 0;
+}
+.staff .member p span a {
+	color: #000;
 }
 
-.round {
-border-radius:50%;
-height:300px;
-width:300px;
+
+/* sidebar for blog posts */
+.sidebar {
+	background-color: #e18649;
+}
+#recent-posts-2 > ul > li > a {
+	color: #fff !important;
+}
+#recent-posts-2 > ul > li > a:hover {
+	color: #2c163c !important;
 }
