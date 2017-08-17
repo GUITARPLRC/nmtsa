@@ -8,15 +8,57 @@
 
 
 /* global */
+h2.site-description {
+	background-color: rgba(0,0,0,0.7);
+	border-radius: 5px;
+	padding:3% !important;
+}
 .round {
 	border-radius: 50%;
 }
 
+/* remove meta data */
+.entry-meta {
+	display: none !important;
+}
+.home .entry-meta {
+	display: none !important;
+}
+.entry-footer {
+	display: none !important;
+}
+.home .entry-footer {
+	display: none !important;
+}
+.post-date {
+	display: none !important;
+}
+.post-meta {
+	display: none !important;
+}
+
 /* home page donate button and footer social links */
 .button.large:hover,
+form > input.submit:hover,
+input[type='submit']:hover,
+#searchsubmit:hover,
+#nf-field-18:hover,
 .social-icons li a:hover {
 	background-color: #2C163C !important;
 	color: #e18649 !important;
+}
+
+#nf-field-18 {
+	border: none;
+	border-radius: 5px;
+	font-size: 20px;
+	letter-spacing: 2px;
+	outline: none;
+	padding: 10px 15px;
+	text-transform: uppercase;
+}
+#nf-field-18:hover {
+	transition: all 0.3s ease;
 }
 
 
@@ -54,8 +96,7 @@
 	color: #2c163c !important;
 }
 
-/* 35 logo */
-#page-1080 > div > div > div.eleven.columns > div > p:nth-child(2) > img {
-	width:300px;
-	height:200px;
+/* Celebration time page */
+#page-1080 > div > div > div > div > h1.headline {
+	text-align: center;
 }
