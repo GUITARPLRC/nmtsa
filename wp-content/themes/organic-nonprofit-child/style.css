@@ -53,3 +53,9 @@
 #recent-posts-2 > ul > li > a:hover {
 	color: #2c163c !important;
 }
+
+/* 35 logo */
+#page-1080 > div > div > div.eleven.columns > div > p:nth-child(2) > img {
+	width:300px;
+	height:200px;
+}
